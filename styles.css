@@ -103,3 +103,15 @@ footer {
     background: #D6CCC2;
     padding: 2px;
 }
+
+button {
+    margin: 20px;
+    padding: 5px 10px 5px 10px;
+    background: white;
+    border: 0.5px solid black;
+    border-radius: 5px;
+}
+
+button:hover {
+    background: whitesmoke;
+}
